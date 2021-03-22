@@ -2,7 +2,7 @@
 - A `codeblock theme` is a theme that changes the appearance of Discord's regular codeblocks. I made up this idea because I thought it would be cool for someone to make something called `codeblock themes`.
 
 # Wildberry - Codeblock Theme [Discord's first, ever, codeblock theme?]
-A `codeblock` theme that changes the appearance of Discord's codeblocks using [Wildberry](https://github.com/DagCord/Wildberry) colors. Planning on doing Nebula next.
+A `codeblock` theme that changes the appearance of Discord's codeblocks using [Wildberry](https://github.com/DagCord/Wildberry) colors. Planning on doing Nebula tomorrow.
 ```css
 .markup-2BOw-j code {
     background: #350058;
